@@ -1,0 +1,44 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.field {
+  margin-bottom: 1.5em;
+}
+
+.analysis-button {
+  margin-top: 1em;
+  padding: 0.5em 1em;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.analysis-button:hover {
+  background-color: #005fa3;
+}
+
+.dropdown {
+  margin-top: 1em;
+}
+
+.results {
+  margin-top: 1.5em;
+  text-align: left;
+}
+
+.results ul {
+  list-style-type: none;
+  padding: 0;
+}
