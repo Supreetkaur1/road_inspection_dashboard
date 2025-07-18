@@ -1,5 +1,7 @@
 # 🛣️ NHAI Inspection Dashboard
 
+🚀 **Live Demo**: [Click here to view the project](https://elegant-marzipan-839821.netlify.app/)
+
 A web dashboard designed for **real-time visualization of Network Survey Vehicle (NSV) data** during site inspections. Built as part of the **NHAI Hackathon 2025** challenge.
 
 ---
