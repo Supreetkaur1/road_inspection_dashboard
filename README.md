@@ -78,6 +78,7 @@ Edit
 │   └── main.jsx                   # ReactDOM root
 ├── package.json
 └── README.md
+```
 🧪 How to Use
 Upload a .CSV or .XLSX file under Excel Analysis Features.
 
@@ -96,6 +97,7 @@ Use synchronized Play/Pause controls to inspect footage.
 Add Bookmarks and Notes for points of interest.
 
 🚧 Future Improvements
+---
 Add map-based route overlays for better spatial alignment.
 
 User login with authentication and role-based access.
@@ -103,9 +105,11 @@ User login with authentication and role-based access.
 Export summary reports as PDF.
 
 👩‍💻 Contributor
+---
 Supreet Kaur – Software Development Engineer
 
 📄 License
+---
 This project is built for the NHAI Hackathon and is open for educational and non-commercial use.
 
 (Leave a star if you found this interesting) 
